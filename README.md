@@ -12,3 +12,4 @@ i essentially got the right number but in percent form and with wrong decimal pl
 i coudlnt figure out how to remove the percent sign and i dont know how it got there in the first place 
 i also couldnt figure out how to get the correct decimal placement 
 i also dont know why the color skipped the first row in my summary table 
+i also couldnt figure out why my decimals were off in the percent change
