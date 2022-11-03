@@ -1,5 +1,4 @@
 # Homework1
-example repo for homework 1 submissions 
 I named all my variables first 
 then i started a for loop to go through all the sheets in the workbook
 i found the ticker and total volume successfully 
